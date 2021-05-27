@@ -304,17 +304,28 @@ transform: scale(0.95,0.95);
 }
 
 .social-icons > a {
-    font-size: 14px;
+    font-size: 11px;
     display: inline-block;
     margin: 5px;
     color: hsl(223, 87%, 63%);
     border: 1px solid hsla(0, 0%, 59%,0.3);
     border-radius: 50%;
-    text-decoration: none;
-    padding: 3px 9px;
-    font-weight: bold;
-    text-align: center;
+    margin-top: 4.2rem;
+  
   }
+
+  #s-f {
+      padding: 5px 8px;
+  }
+  #s-t{
+   
+     padding: 6px 6px 6px 7px;
+     font-size: 0.7rem;
+  }
+  #s-i{
+      padding: 6px 7px;
+  }
+  
 
   .copyright {
     color: hsl(0, 0%, 59%);
